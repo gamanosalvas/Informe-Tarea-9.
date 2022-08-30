@@ -224,7 +224,7 @@ AB 500 Hz; Pregunta 40; e IC(máx) 20 mA, VC(máx) 2,5 V.
 
 4.Video:
 
-
+https://youtu.be/KtwXk-xYX5s
 
 5. Conclusiones:
 
