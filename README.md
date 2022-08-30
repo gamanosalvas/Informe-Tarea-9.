@@ -2,7 +2,7 @@ Universidad de las Fuerzas Armadas "ESPE"
 
 Fundamentos de Circuitos Electricos
 
-Informe Tarea Nº9
+Informe Tarea 9
 
 Integrantes: Manosalvas Gabriel
 
